@@ -1,0 +1,76 @@
+{
+    "prompt": "I had high hopes for this restaurant, but the food was mediocre at best. The service was slow and the prices were too high for the quality of the food. ->",
+    "completion": " negative"
+}
+{
+    "prompt": "I am in love with this new skincare product! It has transformed my skin and I feel so confident without makeup. ->",
+    "completion": " positive"
+}
+{
+    "prompt": "This company's website is a nightmare to navigate. It's so cluttered and confusing, I couldn't find what I was looking for. ->",
+    "completion": " negative"
+}
+{
+    "prompt": "The concert was amazing! The artist put on an incredible performance and the atmosphere was electric. ->",
+    "completion": " positive"
+}
+{
+    "prompt": "I was extremely disappointed with the service at this salon. The stylist was rude and didn't listen to what I wanted. ->",
+    "completion": " negative"
+}
+{
+    "prompt": "I can't believe how much I love this new car. It's the perfect fit for me and it drives like a dream. ->",
+    "completion": " positive"
+}
+{
+    "prompt": "The hotel room was dirty and outdated. The staff wasn't helpful when I tried to switch rooms. ->",
+    "completion": " negative"
+}
+{
+    "prompt": "I was so impressed with the customer service at this company. The representative was friendly, knowledgeable, and went above and beyond to help me. ->",
+    "completion": " positive"
+}
+{
+    "prompt": "This new product is a complete waste of money. It didn't work at all and was a huge disappointment. ->",
+    "completion": " negative"
+}
+{
+    "prompt": "I had an amazing time at this event! The organizers did a fantastic job and I can't wait for the next one. ->",
+    "completion": " positive"
+}
+{
+    "prompt": "The service at this restaurant was terrible. Our food took forever to arrive and our waiter was inattentive. ->",
+    "completion": " negative"
+}
+{
+    "prompt": "Just had lunch at that new restaurant downtown. ->",
+    "completion": " neutral"
+}
+{
+    "prompt": "This movie was alright, nothing special. ->",
+    "completion": " neutral"
+}
+{
+    "prompt": "I'm not sure what to think about this product. ->",
+    "completion": " neutral"
+}
+{
+    "prompt": "I've heard mixed reviews about this book. ->",
+    "completion": " neutral"
+}
+{
+    "prompt": "The service was average at best. ->",
+    "completion": " neutral"
+}
+{
+    "prompt": "The music was neither good nor bad. ->",
+    "completion": " neutral"
+}
+{
+    "prompt": "The weather is just okay today. ->",
+    "completion": " neutral"
+}
+{
+    "prompt": "It's hard to say whether I like this new feature or not. ->",
+    "completion": " neutral"
+}
